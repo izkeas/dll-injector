@@ -1,1 +1,0 @@
-Pointer da posição do player y: THREADSTACK0-380
